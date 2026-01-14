@@ -1,5 +1,6 @@
-- Hi, I’m Avani. I am aspiring to build Deep Multimodal AIs and explore AGI.
-- I carry a whimsical spark within me.
+- Hi, I’m Avani.
+- Applied AI Automation Engineer
+- Building AI-powered systems that automate workflows and turn data into action
 - You can reach me via E-mail: avanisinghchauhan108@gmail.com
 
 <!---
