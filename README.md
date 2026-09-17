@@ -1,6 +1,6 @@
 - Hi, I’m Avani.
-- Applied AI Automation Engineer
-- Building AI-powered systems that automate workflows and turn data into action
+- Agentic AI Engineer
+- Building intelligent systems
 - You can reach me via E-mail: avanisinghchauhan108@gmail.com
 
 <!---
